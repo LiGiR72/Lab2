@@ -1,4 +1,4 @@
-namespace МногопотокЗалупа
+namespace Lab2
 {
     public partial class Form1 : Form
     {

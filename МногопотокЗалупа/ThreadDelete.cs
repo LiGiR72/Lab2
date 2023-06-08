@@ -1,6 +1,6 @@
 ﻿using System.Windows.Forms;
 
-namespace МногопотокЗалупа
+namespace Lab2
 {
     internal class ThreadDelete : ThreadSetting
     {

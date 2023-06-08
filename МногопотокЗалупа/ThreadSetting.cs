@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace МногопотокЗалупа
+namespace Lab2
 {
     internal abstract class ThreadSetting
     {

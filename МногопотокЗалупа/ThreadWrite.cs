@@ -1,4 +1,4 @@
-﻿namespace МногопотокЗалупа
+﻿namespace Lab2
 {
     internal class ThreadWrite : ThreadSetting
     {
