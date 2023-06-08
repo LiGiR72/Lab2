@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "МногопотокЗалупа", "МногопотокЗалупа\МногопотокЗалупа.csproj", "{22B3F616-5E4A-4FFF-970E-A2C725863846}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab2", "МногопотокЗалупа\Lab2.csproj", "{22B3F616-5E4A-4FFF-970E-A2C725863846}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
